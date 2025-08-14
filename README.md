@@ -11,13 +11,7 @@ Repositório desenvolvido para fins didádico, com a disponibilização de mater
 
 Programação: HTML, CSS, JavaScript (iniciando projetos), Python (noções Básicas)
 
-Banco de Dados e SQL (consultas e manipulação de dados)
-
-Power BI (criação de relatórios e dashboards)
-
 Git e GitHub (versionamento de código e colaboração)
-
-Noções de Data Science e Inteligência Artificial
 
 Ferramentas de produtividade: Excel, Google Workspace, VS Code
 
