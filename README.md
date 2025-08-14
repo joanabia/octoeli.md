@@ -47,7 +47,7 @@ Motivação e visão inspiradora, com base em valores cristãos
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joanabia&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9) 
 
 # Objetivo 
-Aprender o básico sobre  GitHub.
+“Contribuir com o conhecimento básico sobre GitHub, compartilhando conceitos essenciais como criação de repositórios, commits, branches e colaboração em projetos, de forma prática e acessível para iniciantes.”
 
 # Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
